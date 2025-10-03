@@ -9,7 +9,6 @@ Ir a la pagina web de Java y descargarlo para tu sistema operativo, escoger la o
 https://www.oracle.com/java/technologies/javase-downloads.html
 https://code.visualstudio.com/
 
-🔹 Paso 2: Instalar
 ```
 Luego de tener instalado Java podemos ejecutar los comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
