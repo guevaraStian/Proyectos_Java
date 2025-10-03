@@ -15,6 +15,6 @@ Luego de tener instalado Java podemos ejecutar los comandos hasta llegar a la ca
 ```Terminal de comandos
 java -version
 javac -versión
-javac Software.java
+javac Nombre_Software.java
 ```
 Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
