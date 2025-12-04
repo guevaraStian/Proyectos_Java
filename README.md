@@ -1,5 +1,5 @@
 
-<h1 style="font-size: 3em; color: #FF0000;">•  Proyectos sencillos creados con Java </h1> 
+<h1 style="font-size: 3em; color: #FF0000;">• PROYECTOS EN JAVA </h1> 
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
