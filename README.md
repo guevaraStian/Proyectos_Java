@@ -27,7 +27,7 @@ cd Proyectos_Java
 git push origin master
 ```
 ---------
-
+Despues de haber descargado el programa, se procede usar java para ejecutar el programa.
 
 ```Terminal de comandos
 java -version
