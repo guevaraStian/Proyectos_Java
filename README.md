@@ -17,7 +17,7 @@ Luego de tener instalado Java podemos ejecutar los comandos hasta llegar a la ca
 
 ----------------
 
-Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+Luego de descargar git, se procede a descargar los archivod dando click en el boton verde y luego dowload o tambien se puede hacer con los comandos para acceder al repositorio son los siguientes.
 
 ```Terminal de comandos
 git --version
