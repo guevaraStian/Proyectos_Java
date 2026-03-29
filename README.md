@@ -12,10 +12,6 @@ https://www.oracle.com/java/technologies/javase-downloads.html
 https://code.visualstudio.com/
 
 ```
-Luego de tener instalado Java podemos ejecutar los comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos.
-
-
-----------------
 
 Luego de descargar git, se procede a descargar los archivod dando click en el boton verde y luego dowload o tambien se puede hacer con los comandos para acceder al repositorio son los siguientes.
 
