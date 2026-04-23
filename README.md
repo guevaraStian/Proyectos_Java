@@ -4,6 +4,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+Este repositorio tiene algunos softwares hechos en el lenguaje de programacion java.
 Los pasos para poner en ejecución son los siguientes.
 Ir a la pagina web de Java y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos.
 
