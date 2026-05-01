@@ -6,7 +6,7 @@
 
 Este repositorio tiene algunos softwares hechos en el lenguaje de programacion java.
 Los pasos para poner en ejecución son los siguientes.
-Ir a la pagina web de Java y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos.
+Ir a la pagina web de Java y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos en pantalla.
 
 ```Pagina web
 https://www.oracle.com/java/technologies/javase-downloads.html
