@@ -23,8 +23,8 @@ git clone https://github.com/guevaraStian/Proyectos_Java.git
 cd Proyectos_Java
 git push origin master
 ```
----------
-Despues de haber descargado el programa, se procede usar java para ejecutar el programa.
+
+Despues de haber descargado el programa,y despues de haber instalado el lenguaje de programacion java, se procede usar java para ejecutar el programa.
 
 ```Terminal de comandos
 java -version
