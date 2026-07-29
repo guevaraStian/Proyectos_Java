@@ -14,6 +14,29 @@ https://code.visualstudio.com/
 
 ```
 
+
+
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+
+WINDOWS
+```Windows
+winget install --id Git.Git -e --source winget
+```
+
+LINUX, Fedora, Arch Linux, CentOS
+```Linux Fedora, Arch Linux, CentOS
+sudo dnf install git -y
+sudo pacman -S git
+sudo yum install git -y
+```
+MAC
+```MAC
+brew install git
+```
+
+
+
+
 Luego de descargar git, se procede a descargar los archivod dando click en el boton verde y luego dowload o tambien se puede hacer con los comandos para acceder al repositorio son los siguientes.
 
 ```Terminal de comandos
