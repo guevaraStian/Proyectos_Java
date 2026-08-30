@@ -37,7 +37,7 @@ brew install git
 
 
 
-Luego de descargar git, se procede a descargar los archivod dando click en el boton verde y luego dowload o tambien se puede hacer con los comandos para acceder al repositorio son los siguientes.
+Luego de descargar git, se procede a descargar los archivod dando click en el boton verde y luego dowload o tambien se puede hacer con los comandos para acceder al repositorio son los siguientes y se ponen en la terminal de comandos luego de haber instalado el git.
 
 ```Terminal de comandos
 git --version
