@@ -47,7 +47,7 @@ cd Proyectos_Java
 git push origin master
 ```
 
-Despues de haber descargado el programa,y despues de haber instalado el lenguaje de programacion java, se procede usar java para ejecutar el programa.
+Despues de haber descargado el programa,y despues de haber instalado el lenguaje de programacion java, se procede usar java para ejecutar el programa con el siguiente comando de terminal dentro de la carpeta donde esta el software creado.
 
 ```Terminal de comandos
 java -version
