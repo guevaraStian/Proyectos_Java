@@ -16,7 +16,7 @@ https://code.visualstudio.com/
 
 
 
-El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+El comando de consola para intalar GIT en cada sistema operativo es el siguiente respectivamente.
 
 WINDOWS
 ```Windows
