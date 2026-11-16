@@ -54,4 +54,4 @@ java -version
 javac -versión
 javac Nombre_Software.java
 ```
-Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes.
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes dependiendo de como sea el softwware creado.
